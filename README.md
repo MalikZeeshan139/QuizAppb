@@ -88,3 +88,10 @@ Z-axis movement support
 Two-way CNC feedback via Bluetooth
 Multi-CNC machine profiles
 UI themes and customizations
+
+## Screenshots
+  ![WhatsApp Image 2025-06-17 at 11 39 19_33da99e1](https://github.com/user-attachments/assets/db78847a-2b10-474e-8502-520b36d75da1)
+
+![WhatsApp Image 2025-06-17 at 11 39 33_a8d3b3c1](https://github.com/user-attachments/assets/ccdd6ecf-2d5e-4ba6-a109-a2addcfa2ce6)
+
+![WhatsApp Image 2025-06-17 at 11 39 44_a044b161](https://github.com/user-attachments/assets/1121c90d-1715-429a-b2e4-76e4cd070efd)
